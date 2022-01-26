@@ -1,0 +1,18 @@
+Order,Oxacid_help01,Oxacid_help02,Oxacid_help03_YES,Oxacid_help03_NO
+1,Reactives presentation,"The Oxide is placed and then the water separated both with a '+' sign, both being reactive.
+To the right of the oxygen an arrow called ""Reaction Arrow"" is placed.
+After the reaction arrow the products will be detailed.",The selected element is '_element1_' with valence _valence1_.,The selected element is '_element1_' with valence _valence1_.
+2,Product presentation (Oxacid),"To the right of the arrow, the reaction product will be detailed which in this case is an Oxacid. 
+The Oxacid structure is Hydrogen, element and Oxygen together (without space between them) indicating
+that are part of the same molecule. In principle the subdice of each one is will be 1 in all cases.",An Oxacid is a ternary compound.,An Oxacid is a ternary compound.
+3,Oxacid composition - Hydrogen subindex,"If valence of the element is inpar, subindex for Hydrogen is 1.
+If valence of the element is par, subindex for Hydrogen is 2.","The selected valence of element '_element1_' is _valence1_, which is odd. The subscript of Hydrogen in Oxacid must be 1.","The selected valence of element '_element1_' is _valence1_, which is even. The subscript for Hydrogen in Oxacid must be 2."
+4,Oxacid composition - Oxygen subindex,"The subindex for Oxygen must balance the sign loads in the Oxacid. We must remenber, de valence of Oxygen es 2.",The new subscript for Oxygen in Oxacid will be _sub7_.,"The new subscript for Oxygen in Oxacid will be _sub7_.
+Therefore there are no changes. "
+5,Hydrogen balance,"We proceed to balance the  Hydrogen. 
+This new coefficient for the Oxacid will be calculated as the quantity of the Hydrogen into reactives divided the amount of the Hydrogen in products.
+ The result of this operation is the new coefficient for the Oxacid in products, and will provide the general balance of the entire chemical equation.",The new Oxacid coefficient is _coef3_.,"The new Oxacid coefficient would be _coef3_, therefore there are no changes."
+6,Element balance,The Oxygen balance was ready in the before step. We must confirm that.,Confirm the balancing of _element1_!,Confirm the balancing of _element1_!
+7,Oxygen balance,The Oxygen balance was ready in 5th step. We must confirm that.,Confirm Oxygen Balancing!,Confirm Oxygen Balancing!
+8,Coefficient Simplification,"If possible, simplify all coefficients by the
+same greatest common divisor (gcd).",The coefficients are simplified by _mcd_coef_. This is the final equation.,The coefficients cannot be further simplified. This is the final equation.

@@ -1,0 +1,119 @@
+Order,Symbol,Name,Type,Valence,Amount of Valences,Oxide_ValenceOrder1,Oxide_ValenceOrder2,Oxide_ValenceOrder3,Oxide_ValenceOrder4,Oxide_ValenceOrder5,Stock
+1,H,Hidrógeno,Non-metal,1,1,Óxido de Hidrógeno,,,,,Óxido de Hidrógeno
+2,He,Helio,Noble gas,0,1,No corresponde,,,,,No corresponde
+3,Li,Litio,Metal,1,1,Óxido de Litio,,,,,Óxido de Litio
+4,Be,Berilio,Metal,2,1,Óxido de Berilio,,,,,Óxido de Berilio
+5,B,Boro,Metalloid,3,1,Óxido de Boro,,,,,Óxido de Boro
+6,C,Carbono,Non-metal,2;4,2,Óxido Carbonoso,Óxido Carbónico,,,,Óxido de Carbono
+7,N,Nitrógeno,Non-metal,2;3;4;5,4,Óxido HipoNitrogenoso,Óxido Nitrogenoso,Óxido Nítrico,Óxido PerNítrico,,Óxido de Nitrógeno
+8,O,Oxígeno,Non-metal,2,1,Oxígeno,,,,,Oxígeno
+9,F,Flúor,Non-metal,1,1,Óxido de Flúor,,,,,Óxido de Flúor
+10,Ne,Neón,Noble gas,0,1,No corresponde,,,,,No corresponde
+11,Na,Sodio,Metal,1,1,Óxido de Sodio,,,,,Óxido de Sodio
+12,Mg,Magnesio,Metal,2,1,Óxido de Magnesio,,,,,Óxido de Magnesio
+13,Al,Aluminio,Metal,3,1,Óxido de Aluminio,,,,,Óxido de Aluminio
+14,Si,Silicio,Metalloid,4,1,Óxido de Silicio,,,,,Óxido de Silicio
+15,P,Fósforo,Non-metal,3;4;5,3,Óxido HipoFosforoso,Óxido Fosforoso,Óxido Fosfórico,,,Óxido de Fósforo
+16,S,Azufre,Non-metal,2;4;6,3,Óxido HipoSulfuroso,Óxido Sulfuroso,Óxido Sulfúrico,,,Óxido de Azufre
+17,Cl,Cloro,Non-metal,1;3;5;7,4,Óxido HipoCloroso,Cloroso,Óxido Clórico,Óxido PerClórico,,Óxido de Cloro
+18,Ar,Argón,Noble gas,0,1,No corresponde,,,,,No corresponde
+19,K,Potasio,Metal,1,1,Óxido de Potasio,,,,,Óxido de Potasio
+20,Ca,Calcio,Metal,2,1,Óxido de Calcio,,,,,Óxido de Calcio
+21,Sc,Escandio,Metal,3,1,Óxido de Escandio,,,,,Óxido de Escandio
+22,Ti,Titanio,Metal,3;4,2,Óxido Titanoso,Óxido Titánico,,,,Óxido de Titanio
+23,V,Vanadio,Metal,2;3;4;5,4,Óxido HipoVanadioso,Óxido Vanadioso,Óxido Vanádico,Óxido PerVanádico,,Óxido de Vanadio
+24,Cr,Cromo,Metal,2;3;6,3,Óxido HipoCromoso,Óxido Cromoso,Óxido Crómico,,,Óxido de Cromo
+25,Mn,Manganeso,Metal,2;3;4;6;7,5,Óxido HipoManganoso,Óxido Manganoso,Óxido Mangánico,Óxido PerMangánico,Óxido SuperMangánico,Óxido de Manganeso
+26,Fe,Hierro,Metal,2;3,2,Óxido Ferroso,Óxido Férrico,,,,Óxido de Hierro
+27,Co,Cobalto,Metal,2;3,2,Óxido Cobaltoso,Óxido Cobáltico,,,,Óxido de Cobalto
+28,Ni,Níquel,Metal,2;3,2,Óxido Niqueloso,Óxido Niquélico,,,,Óxido de Níquel
+29,Cu,Cobre,Metal,1;2,2,Óxido Cuproso,Óxido Cúprico,,,,Óxido de Cobre
+30,Zn,Zinc,Metal,2,1,Óxido de Zinc,,,,,Óxido de Zinc
+31,Ga,Galio,Metal,3,1,Óxido de Galio,,,,,Óxido de Galio
+32,Ge,Germanio,Metalloid,4,1,Óxido de Germanio,,,,,Óxido de Germanio
+33,As,Arsénico,Metalloid,3;5,2,Óxido Arsenioso,Óxido Arsenicico,,,,Óxido de Arsénico
+34,Se,Selenio,Non-metal,4;6,2,Óxido Selenioso,Óxido Selénico,,,,Óxido de Selenio
+35,Br,Bromo,Non-metal,1;5,2,Óxido Bromoso,Óxido Brómico,,,,Óxido de Bromo
+36,Kr,Criptón,Noble gas,0,1,No corresponde,,,,,No corresponde
+37,Rb,Rubidio,Metal,1,1,Óxido de Rubidio,,,,,Óxido de Rubidio
+38,Sr,Estroncio,Metal,2,1,Óxido de Estroncio,,,,,Óxido de Estroncio
+39,Y,Yodo,Metal,3,1,Óxido de Yodo,,,,,Óxido de Yodo
+40,Zr,Circonio,Metal,4,1,Óxido de Circonio,,,,,Óxido de Circonio
+41,Nb,Niobio,Metal,3;5,2,Óxido Niobioso,Óxido Nióbico,,,,Óxido de Niobio
+42,Mo,Molibdeno,Metal,2;3;4;5;6,5,Óxido HipoMolibdenoso,Óxido Molibdenoso,Óxido Molibdénico,Óxido PerMolibdénico,Óxido SuperMolibdénico,Óxido de Molibdeno
+43,Tc,Tecnecio,Metal,7,1,Óxido de Tecnecio,,,,,Óxido de Tecnecio
+44,Ru,Rutenio,Metal,2;3;4;6;8,5,Óxido HipoRutenioso,Óxido Rutenioso,Óxido Ruténico,Óxido PerRuténico,Óxido SuperRuténico,Óxido de Rutenio
+45,Rh,Rodio,Metal,2;3;4,3,Óxido HipoRodioso,Óxido Rodioso,Óxido Ródico,,,Óxido de Rodio
+46,Pd,Paladio,Metal,2;4,2,Óxido Paladoso,Óxido Paládico,,,,Óxido de Paladio
+47,Ag,Plata,Metal,1,1,Óxido de Plata,,,,,Óxido de Plata
+48,Cd,Cadmio,Metal,2,1,Óxido de Cadmio,,,,,Óxido de Cadmio
+49,In,Indio,Metal,3,1,Óxido de Indio,,,,,Óxido de Indio
+50,Sn,Estaño,Metal,2;4,2,Óxido Estañoso,Óxido Estánico,,,,Óxido de Estaño
+51,Sb,Antimonio,Metalloid,3;5,2,Óxido Antimonioso,Óxido Antimónico,,,,Óxido de Antimonio
+52,Te,Telurio,Metalloid,2;4;6,3,Teluluro,Teluluro,Teluluro,,,Teluluro
+53,I,Yodo,Non-metal,1;5;7,3,Óxido HipoYodoso,Óxido Yodoso,Óxido Yódico,,,Óxido de Yodo
+54,Xe,Xenón,Noble gas,0,1,No corresponde,,,,,No corresponde
+55,Cs,Cesio,Metal,1,1,Óxido de Cesio,,,,,Óxido de Cesio
+56,Ba,Bario,Metal,2,1,Óxido de Bario,,,,,Óxido de Bario
+57,La,Lantano,Metal,3,1,Óxido de Lantano,,,,,Óxido de Lantano
+58,Ce,Cerio,Metal,3;4,2,Óxido Cerioso,Óxido Cérico,,,,Óxido de Cerio
+59,Pr,Praseodimio,Metal,3;4,2,Óxido Praseodimioso,Óxido Praseodímico,,,,Óxido de Praseodimio
+60,Nd,Neodimio,Metal,3,1,Óxido de Neodimio,,,,,Óxido de Neodimio
+61,Pm,Prometio,Metal,3,1,Óxido de Prometio,,,,,Óxido de Prometio
+62,Sm,Samario,Metal,2;3,2,Óxido Samarioso,Óxido Samárico,,,,Óxido de Samario
+63,Eu,Europio,Metal,2;3,2,Óxido Europioso,Óxido Európico,,,,Óxido de Europio
+64,Gd,Gadolinio,Metal,3,1,Óxido de Gadolinio,,,,,Óxido de Gadolinio
+65,Tb,Terbio,Metal,3;4,2,Óxido Terbioso,Óxido Térbico,,,,Óxido de Terbio
+66,Dy,Disprosio,Metal,3,1,Óxido de Disprosio,,,,,Óxido de Disprosio
+67,Ho,Holmio,Metal,3,1,Óxido de Holmio,,,,,Óxido de Holmio
+68,Er,Erbio,Metal,3,1,Óxido de Erbio,,,,,Óxido de Erbio
+69,Tm,Tulio,Metal,2;3,2,Óxido Tulioso,Óxido Túlico,,,,Óxido de Tulio
+70,Yb,Iterbio,Metal,2;3,2,Óxido Iterbioso,Óxido Itérbico,,,,Óxido de Iterbio
+71,Lu,Lutecio,Metal,3,1,Óxido de Lutecio,,,,,Óxido de Lutecio
+72,Hf,Hafnio,Metal,4,1,Óxido de Hafnio,,,,,Óxido de Hafnio
+73,Ta,Tantalio,Metal,5,1,Óxido de Tantalio,,,,,Óxido de Tantalio
+74,W,Tungsteno,Metal,2;3;4;5;6,5,Óxido HipoTungstenoso,Óxido Tungstenoso,Óxido Tungsténico,Óxido PerTungsténico,Óxido SuperTungsténico,Óxido de Tungsteno
+75,Re,Renio,Metal,1;2;4;6;7,5,Óxido HipoRenioso,Óxido Renioso,Óxido Rénico,Óxido PerRénico,Óxido SuperRénico,Óxido de Renio
+76,Os,Osmio,Metal,2;3;4;6;8,5,Óxido HipoOsmioso,Óxido Osmioso,Óxido Ósmico,Óxido PerÓsmico,Óxido SuperÓsmico,Óxido de Osmio
+77,Ir,Iridio,Metal,2;3;4;6,4,Óxido HipoIridioso,Óxido Iridioso,Óxido Irídico,Óxido PerIrídico,,Óxido de Iridio
+78,Pt,Platino,Metal,2;4,2,Óxido Platinoso,Óxido Platínico,,,,Óxido de Platino
+79,Au,Oro,Metal,1;3,2,Óxido Auroso,Óxido Áurico,,,,Óxido de Oro
+80,Hg,Mercurio,Metal,1;2,2,Óxido Mercurioso,Óxido Mercúrico,,,,Óxido de Mercurio
+81,Tl,Talio,Metal,1;3,2,Óxido Talioso,Óxido Tálico,,,,Óxido de Talio
+82,Pb,Plomo,Metal,2;4,2,Óxido Plubioso,Óxido Plúmbico,,,,Óxido de Plomo
+83,Bi,Bismuto,Metal,3;5,2,Óxido Bismutoso,Óxido Bismútico,,,,Óxido de Bismuto
+84,Po,Polonio,Metalloid,2;4,2,Óxido Polonioso,Óxido Polónico,,,,Óxido de Polonio
+85,At,Astato,Non-metal,1;3;5;7,4,Óxido HipoAstatoso,Óxido Astatoso,Óxido Astático,Óxido PerAstático,,Óxido de Astato
+86,Rn,Radón,Noble gas,0,1,No corresponde,,,,,No corresponde
+87,Fr,Francio,Metal,1,1,Óxido de Francio,,,,,Óxido de Francio
+88,Ra,Radio,Metal,2,1,Óxido de Radio,,,,,Óxido de Radio
+89,Ac,Actinio,Metal,3,1,Óxido de Actinio,,,,,Óxido de Actinio
+90,Th,Torio,Metal,4,1,Óxido de Torio,,,,,Óxido de Torio
+91,Pa,Protactinio,Metal,4;5,2,Óxido Protactinioso,Óxido Protactínico,,,,Óxido de Protactinio
+92,U,Uranio,Metal,3;4;5;6,4,Óxido HipoUranoso,Óxido Uranoso,Óxido Uránico,Óxido PerUránico,,Óxido de Uranio
+93,Np,Neptunio,Metal,3;4;5;6,4,Óxido HipoNeptunioso,Óxido Neptunioso,Óxido Neptúnico,Óxido PerNeptúnico,,Óxido de Neptunio
+94,Pu,Plutonio,Metal,3;4;5;6,4,Óxido HipoPlutonioso,Óxido Plutonioso,Óxido Plutónico,Óxido PerPlutónico,,Óxido de Plutonio
+95,Am,Americio,Metal,3;4;5;6,4,Óxido HipoAmericioso,Óxido Americioso,Óxido Amerícico,Óxido PerAmerícico,,Óxido de Americio
+96,Cm,Curio,Metal,3,1,Óxido de Curio,,,,,Óxido de Curio
+97,Bk,Berkelio,Metal,3;4,2,Óxido Berkelioso,Óxido Berkélico,,,,Óxido de Berkelio
+98,Cf,Californio,Metal,3,1,Óxido de Californio,,,,,Óxido de Californio
+99,Es,Einstenio,Metal,4,1,Óxido de Einstenio,,,,,Óxido de Einstenio
+100,Fm,Fermio,Metal,4,1,Óxido de Fermio,,,,,Óxido de Fermio
+101,Md,Mendelevio,Metal,3;4,2,Óxido Mendelevioso,Óxido Mendelévico,,,,Óxido de Mendelevio
+102,No,Nobelio,Metal,3;4,2,Óxido Nobelioso,Óxido Nobélico,,,,Óxido de Nobelio
+103,Lr,Laurencio,Metal,3;4,2,Óxido Laurencioso,Óxido Lauréncico,,,,Óxido de Laurencio
+104,Rf,Rutherfordio,Metal,4,1,Óxido de Rutherfordio,,,,,Óxido de Rutherfordio
+105,Db,Dubnium,Metal,4,1,Óxido de Dubnium,,,,,Óxido de Dubnium
+106,Sg,Seaborgio,Metal,4,1,Óxido de Seaborgio,,,,,Óxido de Seaborgio
+107,Bh,Bohrio,Metal,3;4;5,3,Óxido HipoBohrioso,Óxido Bohrioso,Óxido Bóhrico,,,Óxido de Bohrio
+108,Hs,Hassio,Metal,2;4;6;7,4,Óxido HipoHassioso,Óxido Hassioso,Óxido Hássico,Óxido PerHássico,,Óxido de Hassio
+109,Mt,Meitnerio,Metal,2;3;4;6,4,Óxido HipoMeitnerioso,Óxido Meitnerioso,Óxido Meitnérico,Óxido PerMeitnérico,,Óxido de Meitnerio
+110,Ds,Darmstatio,Metal,2;4,2,Óxido Darmstatioso,Óxido Darmstático,,,,Óxido de Darmstatio
+111,Rg,Roentgenio,Metal,2;3,2,Óxido Roentgenioso,Óxido Roentegénico,,,,Óxido de Roentgenio
+112,Cn,Copérnico,Metal,1;2,2,Óxido Copernicoso,Óxido Copérnico,,,,Óxido de Copérnico
+113,Nh,Nihonium,Metal,3,1,Óxido de Nihonium,,,,,Óxido de Nihonium
+114,Fl,Flerovio,Metal,2;4;6,3,Óxido HipoFlerovioso,Óxido Flerovioso,Óxido Fleróvico,,,Óxido de Flerovio
+115,Mc,Moscovio,Metal,1;4;5,3,Óxido HipoMoscovioso,Óxido Moscovioso,Óxido Moscóvico,,,Óxido de Moscovio
+116,Lv,Livermorio,Metal,3;4;5,3,Óxido HipoLivermorioso,Óxido Livermorioso,Óxido Livermórico,,,Óxido de Livermorio
+117,Ts,Tenesino,Metal,1;2;3,3,Óxido HipoTenesinoso,Óxido Tenesinoso,Óxido Tenésico,,,Óxido de Tenesino
+118,Og,Oganeson,Metal,4;7,2,Óxido Oganesonoso,Óxido Oganésico,,,,Óxido de Oganeson
